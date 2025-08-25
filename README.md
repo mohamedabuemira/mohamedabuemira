@@ -1,5 +1,5 @@
 ## Hi there, I'm Mohamed Essam Abu Emira. 👋 👋
-### I'm  ERP Functional Consultant passionate about ERP/eCommerce implementations.
+### I'm  ERP Functional Consultant passionate about ERP and Financial Solutions.
 
 
 - 🔭 telescope: Most of my experience in Odoo ERP and eCommerce implementations dates back to 10+ years.
