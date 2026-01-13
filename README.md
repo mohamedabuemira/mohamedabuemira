@@ -104,7 +104,7 @@ Recently, I have started A YouTube channel & telegram channel in which I will tr
 </a>
 
 <a href="https://abuemiraerp.github.io/" target="_blank" rel="noopener noreferrer">
-  <img alt="Personal Website 1" src="https://img.shields.io/badge/Website%201-000000?style=for-the-badge&logo=githubpages&logoColor=white">
+  <img alt="Personal Website 1" src="https://img.shields.io/badge/Personal Website%201-000000?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
 
 <a href="https://mohamedabuemira.github.io/" target="_blank" rel="noopener noreferrer">
