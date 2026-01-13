@@ -99,14 +99,38 @@ Recently, I have started A YouTube channel & telegram channel in which I will tr
 <a href="https://www.facebook.com/mohamed.abuemira/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://t.me/mohamedabuemira"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
 <a href="https://api.whatsapp.com/send?phone=+201005061349&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201005061349&text=Hi!" alt="Whatsapp"></a>
-<a href="https://abuemira.netlify.app/" target="_blank" rel="noopener noreferrer">Netlify.app</a>
-<a href="https://abuemiraerp.github.io/" target="_blank" rel="noopener noreferrer">Website 1</a>
-<a href="https://mohamedabuemira.github.io/" target="_blank" rel="noopener noreferrer">Website 2</a>
-<a href="https://abuemira.odoo.com/" target="_blank" rel="noopener noreferrer">Odoo</a>
-<a href="https://topmate.io/abuemira" target="_blank" rel="noopener noreferrer">topmate.io</a>
-<a href="https://mohamedabuemira.netlify.app/" target="_blank" rel="noopener noreferrer">Website (Netlify)</a>
-<a href="https://about.me/abuemira" target="_blank" rel="noopener noreferrer">about.me</a>
-<a href="https://bento.me/abuemira" target="_blank" rel="noopener noreferrer">Bento</a>
+<a href="https://abuemira.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://abuemiraerp.github.io/" target="_blank" rel="noopener noreferrer">
+  <img alt="Website 1" src="https://img.shields.io/badge/Website%201-000000?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+<a href="https://mohamedabuemira.github.io/" target="_blank" rel="noopener noreferrer">
+  <img alt="Website 2" src="https://img.shields.io/badge/Website%202-000000?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+<a href="https://abuemira.odoo.com/" target="_blank" rel="noopener noreferrer">
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
+</a>
+
+<a href="https://topmate.io/abuemira" target="_blank" rel="noopener noreferrer">
+  <img alt="Topmate" src="https://img.shields.io/badge/Topmate-000000?style=for-the-badge&logo=linktree&logoColor=white">
+</a>
+
+<a href="https://mohamedabuemira.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img alt="Portfolio (Netlify)" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</a>
+
+<a href="https://about.me/abuemira" target="_blank" rel="noopener noreferrer">
+  <img alt="about.me" src="https://img.shields.io/badge/about.me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white">
+</a>
+
+<a href="https://bento.me/abuemira" target="_blank" rel="noopener noreferrer">
+  <img alt="Bento" src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=linktree&logoColor=white">
+</a>
+
 
 </div>
 
